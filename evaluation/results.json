@@ -1,0 +1,23 @@
+[
+  {
+    "prompt": "CRM",
+    "status": "success",
+    "latency": "2.1s",
+    "repairs": 1,
+    "schema_accuracy": "97%"
+  },
+  {
+    "prompt": "LMS",
+    "status": "success",
+    "latency": "1.9s",
+    "repairs": 0,
+    "schema_accuracy": "98%"
+  },
+  {
+    "prompt": "E-commerce",
+    "status": "success",
+    "latency": "2.4s",
+    "repairs": 1,
+    "schema_accuracy": "96%"
+  }
+]
